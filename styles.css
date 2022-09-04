@@ -7,6 +7,7 @@
 body {
     background-color: white;
     padding: 10px;
+    font-family: Arial;
 }
 
 #navbar_logo {
@@ -15,6 +16,7 @@ body {
 
 .navbar {
     border-radius: 5px;
+    font-family: Arial;
 }
 
 .navbar {
@@ -22,5 +24,11 @@ body {
 }
 
 .row {
-    margin: 0px;
+    margin: 20px;
+}
+
+.card {
+    height: auto;
+    width: auto;
+    font-family: arial;
 }
